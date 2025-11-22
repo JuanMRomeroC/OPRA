@@ -61,7 +61,7 @@
       },
       {
         "type": "peak_dip",
-        "frequency": 65600,
+        "frequency": 6500,
         "gain_db": 1.9,
         "q": 4.5
       }
